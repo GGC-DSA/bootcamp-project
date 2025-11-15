@@ -15,3 +15,5 @@ More info:
 We will do the following:
 1. number 1
 2. number 2
+
+[Notebook](CNS2020_Vizualizations_Demo.html)
